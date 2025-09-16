@@ -3,3 +3,6 @@
 
 ### Engineer that worked and signed off projects of value around 1B Rands
 - Talking about company meetings: "Some people are like bull terriers, they just don't know when to let go of something!"
+
+### Retired professor who graduated multiple masters and PhD students
+- When talking about supervising students and technical writing: "Big picture before details."
